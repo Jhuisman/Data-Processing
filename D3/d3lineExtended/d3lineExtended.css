@@ -1,0 +1,35 @@
+/* Name: Job Huisman, Studentnummer: 10119647 */
+body {
+  font: 15px sans-serif;
+}
+.axis path, .axis line {
+	fill: none;
+	stroke-width: 3px;
+	stroke: black;
+	shape-rendering: crispEdges;
+}
+
+.x.axis path {
+	fill: none;
+	stroke-width: 3px;
+	stroke: black;
+	shape-rendering: crispEdges;
+
+}
+
+.line {
+	fill: none;
+	stroke-width: 1.5px;
+}
+
+.overlay {
+    fill: none;
+    stroke: none;
+    pointer-events: all;
+}
+.focusLine {
+    fill: none;
+    stroke: black;
+    stroke-dasharray: 5px;
+}
+
